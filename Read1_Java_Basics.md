@@ -1,12 +1,12 @@
 Language Basics
 Variables 
 Variable is a basic data types consider as object store values examples =>(primitive types, character strings, and arrays), default values.
-![Data_tybes](./assets/dt.jpg| width=100)
+  ![][Data_tybes](./assets/dt.jpg=250x250)
 
 
 Operators
 Operators are symbols that is used to perform operations.
-![Operaters](./assets/oper.jpg|width=100)
+    ![][Operaters](./assets/oper.jpg|width=100)
 
 Expressions, Statements, and Blocks
 Expressions is collection of variables and operaters amnd method that evaluates to a single value
@@ -19,10 +19,10 @@ Scope that contains zero or more statement and which initialized in it cannot ac
 
 Control Flow Statements
 The way that the computer runs code from top to bottom.
-![Control Flow Statements](./assets/control.jpg| width=100)
+    ![][Control Flow Statements](./assets/control.jpg=250x250)
 
 Compiling
 the step which computer convert the program to their language (0&1)to run it and comunucate with it.
-![Compiling](./assets/compile.jpg| width=100)
+    ![][Compiling](./assets/compile.jpg=250x250)
 
 
