@@ -12,5 +12,5 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 
 | The Code	      | The code    |              The Link |
 | :---        |:-----------:|----------------------:|
-| Read01      | Java Basics | [Link](/reading-notes//Read: 01 - Java Basics.md) |
+| Read01      | Java Basics | [Link](./Read1_Java_Basics.md) |
 
