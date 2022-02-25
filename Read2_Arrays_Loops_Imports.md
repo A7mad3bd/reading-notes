@@ -1,5 +1,5 @@
 # Packages and Import
-  ![][Packages](./assets/package.jpg=250x250)
+  ![Packages](./assets/package.jpg)
 
 Package = directory
 
@@ -9,7 +9,7 @@ Java compiler imports java. lang package internally by default.
 Package declaration syntax
 
 package package_name ; optional
-  ![][Import_ex](./assets/import.jpg=250x250)
+  ![Import_ex](./assets/import.jpg)
 
 
 
@@ -53,18 +53,18 @@ allows static variables typically constants to be referenced without qualifying 
 1. For Loop
 for (ini;condition;incre or dec)//all optional
 {}
-  ![][For_Loop](./assets/For-Loop.jpg=250x250)
+  ![For_Loop](./assets/For-Loop.jpg)
 
 2. While Loop
 while(boolean condition)
 {}
-  ![][While_Loop](./assets/While-Loop-GeeksforGeeks.jpg=250x250)
+  ![While_Loop](./assets/While-Loop-GeeksforGeeks.jpg)
 
 3. Do-While Loop
  like the while loop except for first code will be any way then will be condition in while condition 
-  ![][Do_While_Loop](./assets/do-while-Loop-GeeksforGeeks2.jpg=250x250)
+  ![Do_While_Loop](./assets/do-while-Loop-GeeksforGeeks2.jpg)
 
 Nested loop 
 loop in loop
-  ![][Nested_loop](./assets/nested.jpg=250x250)
+  ![Nested_loop](./assets/nested.jpg)
 
