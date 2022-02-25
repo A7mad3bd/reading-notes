@@ -6,6 +6,8 @@ My name is Ahmad Abdallah and I am 21 years old, I am a Java Developer, I  am ab
 Now I am looking for a Java developer job or internship , I am looking enhance my skills especially in Java language and proplem solving.
 
 # Code 401 - Advanced Software Development:
+
+ https://a7mad3bd.github.io/reading-notes/
  
 ### 401 Table of contents
 
