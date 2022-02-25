@@ -12,4 +12,4 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | The Code	      | The code    |              The Link |
 | :---        |:-----------:|----------------------:|
 | Read01      | Java Basics | [Link](./Read1_Java_Basics.md) |
-
+| Read02      | Java Arrays_Loops_Imports | [Link](./Read2_Arrays_Loops_Imports.md) |

@@ -6,7 +6,7 @@ Variable is a basic data types consider as object store values examples =>(primi
 
 Operators
 Operators are symbols that is used to perform operations.
-    ![Operaters](./assets/oper.jpg|width=100)
+    ![Operaters](./assets/oper.jpg)
 
 Expressions, Statements, and Blocks
 Expressions is collection of variables and operaters amnd method that evaluates to a single value
