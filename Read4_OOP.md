@@ -3,38 +3,38 @@ Programing Model organizes software design data rather than functions and logic.
 Everything in Java is associated with classes and objects, along with its attributes and methods
 
 
-![OOP](./assets/oop.jpg | width=100)
+  ![OOP](./assets/oop.jpg)
 
 
 ### Object
  Java object is like member of a Java class. Each object has an identity, a behavior, and a state.
 
 
-![OBJ](./assets/obj.jpg | width=100)
+  ![Obj](./assets/obj.jpg)
 
 
 ### Class
 Class in java template used to create objects and to define object data types and methods.
 
-![OBJ](./assets/class.jpg | width=100)
+  ![Class](./assets/class.jpg)
 
 
 ### Inheritance 
 mechanism in which one object acquires all the properties and behaviors of a parent object.
 
-![OBJ](./assets/Inheritance.jpg | width=100)
+  ![Inheritance](./assets/Inheritance.jpg)
 
 
 ### Interface 
 An interface in java is an abstract type used to specify the behavior of a class.
 
-![OBJ](./assets/obj.jpg | width=100 )
+  ![Interface](./assets/obj.jpg)
 
 
 ### Package
 Package in Java is mechanism to encapsulate a group of classes, sub packages and interfaces
 
-![OBJ](./assets/packagepick.jpg | width=100 )
+  ![Package](./assets/packagepick.jpg)
 
 
 ### Binary, Decimal and Hexadecimal Numbers
@@ -50,5 +50,5 @@ Hexadecimal (or "hex" for short) is a numbering system which works similarly to 
 the reason is that hexadecimal is more "in tune" with how numbers are organised internally when it comes to computer memory and data. The divisions between hexadecimal digits correspond more closely to the divisions between the bytes making up that number when it is stored.
 
 
-![OBJ](./assets/numberingsystem.png | width=100)
+  ![Binary](./assets/numberingsystem.png)
 
