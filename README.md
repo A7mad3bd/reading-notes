@@ -17,5 +17,7 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read02      | Java Arrays_Loops_Imports | [Link](./Read2_Arrays_Loops_Imports.md) |
 | Read03      | Java Map_Arraylist_FIO | [Link](./Read3_Map_prematives.md) |
 | Read04      | Java OOP & Binary | [Link](./Read4_OOP.md) |
+| Read        | Java linked list bigO | [Link](./Read_linked_list_bigO.md) |
 | prep werks      | SQL | [Link](./SQL_Prep_challenges/) |
+
 
