@@ -18,7 +18,7 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read03      | Java Map_Arraylist_FIO | [Link](./Read3_Map_prematives.md) |
 | Read04      | Java OOP & Binary | [Link](./Read4_OOP.md) |
 | Read05        | Java linked list bigO | [Link](./Read_linked_list_bigO.md) |
-| Read06      | Java OOB Interface_Inheritance | [Link](./Read5_Interface_Inheritance.md) |
+| Read06      | Java OOB Interface_Inheritance | [Link](./Read6_Interface_Inheritance.md) |
 | prep werks      | SQL | [Link](./SQL_Prep_challenges/) |
 
 
