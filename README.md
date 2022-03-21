@@ -23,8 +23,9 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read09      | Java Read9_WRRC | [Link](./Read9_WRRC.md) |
 | Read10      | Java Stacks and Queues | [Link](./Read10_Stacks%20and%20Queues.md) |
 | Read11      | Java Spring | [Link](./Read11_Spring.md) |
-| Read12      | Java Spring_RESTful_Routing_&_Static Files | 
-[Link](/Read12_Spring_RESTful_Routing_%26_Static%20Files) |
+| Read12      | Java Spring_RESTful_Routing_&_Static Files | [Link](/Read12_Spring_RESTful.md) |
+| Read13      | Java Spring_Relations Testing | [Link](/Read13_relations%20and%20testing.md) |
+
 | prep werks      | SQL | [Link](./SQL_Prep_challenges/) |
 
 
