@@ -26,8 +26,8 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read12      | Java Spring_RESTful_Routing_&_Static Files | [Link](/Read12_Spring_RESTful.md) |
 | Read13      | Java Spring_Relations Testing | [Link](/Read13_relations%20and%20testing.md) |
 | Read15      | Java Trees | [Link](/Read15_Trees.md) |
-| Read16     | Java SpringSecurity Architecture | [Link](/Read16_securityArchitecture.md) |
-
+| Read16      | Spring securityArchitecture | [Link](/Read16_securityArchitecture.md) |
+| Read17      | Java Trees | [Link](/Read17_Spring_OAuth2.md) |
 
 | prep werks      | SQL | [Link](./SQL_Prep_challenges/) |
 
