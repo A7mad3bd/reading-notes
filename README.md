@@ -13,6 +13,9 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 
 | The Code	      | The code    |              The Link |
 | :---        |:-----------:|----------------------:|
+| Prep werks      | The Growth Mindset | [Link](./Perp_The_Growth_Mindset.md) |
+| Prep werks      | Practice in the Terminal | [Link](./Prep_Terminal.md) |
+| Prep werks      | SQL | [Link](./SQL_Prep_challenges/) |
 | Read01      | Java Basics | [Link](./Read1_Java_Basics.md) |
 | Read02      | Java Arrays_Loops_Imports | [Link](./Read2_Arrays_Loops_Imports.md) |
 | Read03      | Java Map_Arraylist_FIO | [Link](./Read3_Map_prematives.md) |
@@ -31,6 +34,6 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 
 
 
-| prep werks      | SQL | [Link](./SQL_Prep_challenges/) |
+
 
 
