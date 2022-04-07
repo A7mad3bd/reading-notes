@@ -32,6 +32,8 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read16      | Spring securityArchitecture | [Link](/Read16_securityArchitecture.md) |
 | Read17      | Java Trees | [Link](/Read17_Spring_OAuth2.md) |
 | Read18      | Java security and many to many | [Link](/Read18.md) |
+| Read19      | Spring and Sockets | [Link](/Read19_Spring_Sockets.md) |
+
 
 
 
