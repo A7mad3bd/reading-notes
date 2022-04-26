@@ -9,9 +9,16 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 
  https://a7mad3bd.github.io/reading-notes
 
+
+ ### 401 Table of Android contents
+
+| The Read	      | The topic    |              The Link |
+| :---        |:-----------:|----------------------:|
+| Read: 26 -  | Android Fundamentals | [Link](./Perp_The_Growth_Mindset.md) |
+
 ### 401 Table of contents
 
-| The Code	      | The code    |              The Link |
+| The Read	      | The topic    |              The Link |
 | :---        |:-----------:|----------------------:|
 | Prep werks      | The Growth Mindset | [Link](./Perp_The_Growth_Mindset.md) |
 | Prep werks      | Practice in the Terminal | [Link](./Prep_Terminal.md) |
