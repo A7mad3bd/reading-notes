@@ -9,14 +9,21 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 
  https://a7mad3bd.github.io/reading-notes
 
+ ### 401 Table of Android contents
 
+| The Read	      | The topic    |              The Link |
+| :---        |:-----------:|----------------------:|
+| Read26      | Android Fundamentals | [Link](/Read26_Android%20Fundamentals.md) |
+| Read27      | BackStacks_Shared Preferences | [Link](/Read27_BackStacks_Shared%20Preferences.md) |
+| Read28      | RecyclerView | [Link](/Read28_RecyclerView.md) |
+| Read29      | Room | [Link](/Read29_Room.md) || Read30      | Hash Table | [Link](/Read30_HashTable.md) |
 
 
 ### 401 Table of contents
 
 | The Read	      | The topic    |              The Link |
 | :---        |:-----------:|----------------------:|
-| Prep werks      | The Growth Mindset | [Link](./Perp_The_Growth_Mindset.md) |
+| Prep werks      | The Growth Mindset | [Link](./Read26_Android%Fundamentals.md) |
 | Prep werks      | Practice in the Terminal | [Link](./Prep_Terminal.md) |
 | Prep werks      | SQL | [Link](./SQL_Prep_challenges/) |
 | Read01      | Java Basics | [Link](./Read1_Java_Basics.md) |
@@ -37,12 +44,6 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read18      | Java security and many to many | [Link](/Read18.md) |
 | Read19      | Spring and Sockets | [Link](/Read19_Spring_Sockets.md) |
 
- ### 401 Table of Android contents
 
-| The Read	      | The topic    |              The Link |
-| :---        |:-----------:|----------------------:|
-| Read26      | Android Fundamentals | [Link](/Read26_Android%20Fundamentals.md) |
-| Read27      | BackStacks_Shared Preferences | [Link](/Read27_BackStacks_Shared%20Preferences.md) |
-| Read28      | RecyclerView | [Link](/Read28_RecyclerView.md) |
 
 
