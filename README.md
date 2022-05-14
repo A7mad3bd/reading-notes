@@ -17,6 +17,8 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read27      | BackStacks_Shared Preferences | [Link](/Read27_BackStacks_Shared%20Preferences.md) |
 | Read28      | RecyclerView | [Link](/Read28_RecyclerView.md) |
 | Read29      | Room | [Link](/Read29_Room.md) |
+| Read30      | Hash Table | [Link](/Read30_HashTable.md) |
+
 
 
 ### 401 Table of contents
@@ -43,8 +45,6 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read17      | Java Trees | [Link](/Read17_Spring_OAuth2.md) |
 | Read18      | Java security and many to many | [Link](/Read18.md) |
 | Read19      | Spring and Sockets | [Link](/Read19_Spring_Sockets.md) |
-
-
 
 
 
