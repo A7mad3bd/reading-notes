@@ -18,7 +18,8 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read28      | RecyclerView | [Link](/Read28_RecyclerView.md) |
 | Read29      | Room | [Link](/Read29_Room.md) || Read30      | Hash Table | [Link](/Read30_HashTable.md) |
 | Read31      | AWS Amplify | [Link](/Read31_AWS_Amplify.md)|
-| Read32      | Serverless &AWS Amplify | [Link](/Read32.md)|
+| Read32      | Serverless and Amplify | [Link](/Read32Serverless_Amplify.md)|
+| Read33      | GraphQL @connection | [Link](/Read33_GraphQL%40connection.md)|
 
 
 
