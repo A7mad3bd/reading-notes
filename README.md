@@ -20,6 +20,7 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read31      | AWS Amplify | [Link](/Read31_AWS_Amplify.md)|
 | Read32      | Serverless and Amplify | [Link](/Read32Serverless_Amplify.md)|
 | Read33      | GraphQL @connection | [Link](/Read33_GraphQL%40connection.md)|
+| Read34      | Monetization | [Link](/Read34_Monetization.md)|
 
 
 
