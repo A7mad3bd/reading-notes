@@ -21,6 +21,7 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read32      | Serverless and Amplify | [Link](/Read32Serverless_Amplify.md)|
 | Read33      | GraphQL @connection | [Link](/Read33_GraphQL%40connection.md)|
 | Read34      | Monetization | [Link](/Read34_Monetization.md)|
+| Read35      | Graphs | [Link](/Read35_Graph.md)|
 
 
 ### 401 Table of contents
