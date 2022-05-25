@@ -22,6 +22,8 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read33      | GraphQL @connection | [Link](/Read33_GraphQL%40connection.md)|
 | Read34      | Monetization | [Link](/Read34_Monetization.md)|
 | Read35      | Graphs | [Link](/Read35_Graph.md)|
+| Read36      | Cognito | [Link](/Read36_Cognito.md)|
+
 
 
 
