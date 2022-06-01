@@ -23,6 +23,8 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 | Read34      | Monetization | [Link](/Read34_Monetization.md)|
 | Read35      | Graphs | [Link](/Read35_Graph.md)|
 | Read36      | Cognito | [Link](/Read36_Cognito.md)|
+| Read37      | Amazon_S3 | [Link](/Read37_Amazon_S3.md)|
+| Read39      | Location | [Link](/Read39_.md)|
 
 
 
