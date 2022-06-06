@@ -11,18 +11,21 @@ Now I am looking for a Java developer job or internship , I am looking enhance m
 
  ### 401 Table of Android contents
 
-| The Read	      | The topic    |              The Link |
-| :---        |:-----------:|----------------------:|
-| Read26      | Android Fundamentals | [Link](/Read26_Android%20Fundamentals.md) |
-| Read27      | BackStacks_Shared Preferences | [Link](/Read27_BackStacks_Shared%20Preferences.md) |
-| Read28      | RecyclerView | [Link](/Read28_RecyclerView.md) |
-| Read29      | Room | [Link](/Read29_Room.md) || Read30      | Hash Table | [Link](/Read30_HashTable.md) |
-| Read31      | AWS Amplify | [Link](/Read31_AWS_Amplify.md)|
-| Read32      | Serverless and Amplify | [Link](/Read32Serverless_Amplify.md)|
-| Read33      | GraphQL @connection | [Link](/Read33_GraphQL%40connection.md)|
-| Read34      | Monetization | [Link](/Read34_Monetization.md)|
-| Read35      | Graphs | [Link](/Read35_Graph.md)|
-| Read36      | Cognito | [Link](/Read36_Cognito.md)|
+| The Read	 |           The topic           |              The Link |
+|:----------|:-----------------------------:|----------------------:|
+| Read26    |     Android Fundamentals      | [Link](/Read26_Android%20Fundamentals.md) |
+| Read27    | BackStacks_Shared Preferences | [Link](/Read27_BackStacks_Shared%20Preferences.md) |
+| Read28    |         RecyclerView          | [Link](/Read28_RecyclerView.md) |
+| Read29    |             Room              | [Link](/Read29_Room.md) || Read30      | Hash Table | [Link](/Read30_HashTable.md) |
+| Read31    |          AWS Amplify          | [Link](/Read31_AWS_Amplify.md)|
+| Read32    |    Serverless and Amplify     | [Link](/Read32Serverless_Amplify.md)|
+| Read33    |      GraphQL @connection      | [Link](/Read33_GraphQL%40connection.md)|
+| Read34    |         Monetization          | [Link](/Read34_Monetization.md)|
+| Read35    |            Graphs             | [Link](/Read35_Graph.md)|
+| Read36    |            Cognito            | [Link](/Read36_Cognito.md)|
+| Read37    |           Amazon S3           | [Link](/Read37_Amazon_S3.md)|
+| Read39    |       Android Location        | [Link](/Read39_.md)|
+| Read41    |        Amazon Pinpoint        | [Link](/Read41.md)|
 
 
 
