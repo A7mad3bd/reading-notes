@@ -30,7 +30,7 @@ Increase engagement and retention with subscriptions by offering free trials, in
 ### Convert users into buyers
 - Google Play offers a frictionless payment experience for you and your users, handling everything from receipts to subscription management to notifications with ease
 
-## Resources/Citations
+## Resources
 
 - [Google AdMob](https://developers.google.com/admob)
 - [Google’s monetization guide](https://play.google.com/console/about/guides/monetize/)
